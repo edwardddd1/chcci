@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkstudent_portal_vue"]=self["webpackChunkstudent_portal_vue"]||[]).push([[594],{603:function(t,u,n){n.r(u),n.d(u,{default:function(){return l}});var e=n(641);const a={class:"about"};function r(t,u){return(0,e.uX)(),(0,e.CE)("div",a,u[0]||(u[0]=[(0,e.Lk)("h1",null,"This is an about page",-1)]))}var s=n(6262);const c={},o=(0,s.A)(c,[["render",r]]);var l=o}}]);
+//# sourceMappingURL=about.bddb7716.js.map
