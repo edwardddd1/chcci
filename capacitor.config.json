@@ -1,0 +1,8 @@
+{
+  "appId": "app.student.bma.edu.ph",
+  "appName": "BMA Student App",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  }
+}
